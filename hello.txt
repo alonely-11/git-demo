@@ -8,5 +8,8 @@ iiiiiiiiii:ii
 家人们
 吓我一跳qwq
 hhi
+<<<<<<< HEAD
 hhh鸡汤来喽~This is master.
-
+=======
+hhh鸡汤来喽~This is hot-fix.
+>>>>>>> hot-fix
